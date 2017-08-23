@@ -1,0 +1,7 @@
+{
+  "usuarios": [
+    { "id": 1, "nombre": "Fernando Jiménez Calsín" },
+    { "id": 2, "nombre": "Mery Tres Santos" },
+    { "id": 3, "nombre": "Wilmer Anaconda Uruchi" }
+  ]
+}
